@@ -1,1 +1,3 @@
-# django-to-do-list
+# Django To Do List App
+
+Description will be added...
